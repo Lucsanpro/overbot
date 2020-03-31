@@ -241,3 +241,4 @@ async def on_message_delete(message):
 
 
 token = os.environ.ger('BOT_TOKEN')
+client.run( token )
